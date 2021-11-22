@@ -83,7 +83,6 @@ export interface IHistorical {
 
 export interface ChartProps {
   coinId: string;
-  isDark: boolean;
 }
 
 export interface PriceProps {
